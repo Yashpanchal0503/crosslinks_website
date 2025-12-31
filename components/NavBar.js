@@ -41,7 +41,7 @@ export const NavBar = () => {
                   showBorder={true}
                   className="custom-class"
                   >
-                  JOIN US
+                  ALUMNI MEET '25
                   </GradientText>
 
               </button>
@@ -115,7 +115,7 @@ export const NavBar = () => {
                   showBorder={true}
                   className="custom-class"
                   >
-                  JOIN US
+                  ALUMNI MEET '25
                   </GradientText>
 
               </button>
